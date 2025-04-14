@@ -43,7 +43,3 @@ Key Highlights
 	•	Churn Risk Prediction: Employs machine learning models to identify high-risk customers.
 	•	Responsiveness Modeling: Targets customers most likely to respond positively to retention efforts.
 
-Next Steps
-
-	•	Integrate real-time responsiveness predictions into customer retention workflows.
-	•	Extend the analysis to include additional features or datasets.
